@@ -10,7 +10,7 @@ use App\Models\Level;
 
 use Livewire\WithPagination;
 
-class CourseIndex extends Component
+class CoursesIndex extends Component
 {
     use WithPagination;
 
